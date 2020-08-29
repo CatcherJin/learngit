@@ -5,4 +5,4 @@ Git tracks changes of files.
 new changes.
 dev branch test.
 Creating a new branch is quick and simple.
-add merge.
+add merge. fix the bug.
